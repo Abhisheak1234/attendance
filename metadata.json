@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SR SCHOOL ATTENDANCE",
+  "description": "A single-page application for tracking school attendance from 6th to 10th grade, with automatic calculation of absentees, presentees, and percentages in an Excel-like format.",
+  "requestFramePermissions": []
+}
